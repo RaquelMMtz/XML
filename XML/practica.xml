@@ -1,0 +1,20 @@
+<? xml ?>
+<coches>
+<coche>
+    <nombre_de_coche color="ROJO" velocidad= "400km/h">KELSA </nombre_de_coche>
+    <marca> FERRARI </marca>
+    <año>2015 </año>
+</coche>
+<coche>
+    <nombre_de_coche color="NEGRO" velocidad= "600km/h">PACO </nombre_de_coche>
+    <marca> LAMBURGINI </marca>
+    <año>2015 </año>
+</coche>
+<coche>
+    <nombre_de_coche color="" velocidad= "">ESTHER </nombre_de_coche>
+    <marca> MERCEDES </marca>
+    <año>2012 </año>
+    </coche>
+<preferidos> KELSA Y MARTIN </preferidos>
+<preferido> KELSA Y MARTIN </preferido>
+ </coches>
